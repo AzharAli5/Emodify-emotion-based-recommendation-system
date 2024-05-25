@@ -1,2 +1,3 @@
 # Emodify-emotion-based-recommendation-system
-Recommendation System to change mind of user accourding to emotions
+Recommending Video,Audio,Books based on Emotions
+
